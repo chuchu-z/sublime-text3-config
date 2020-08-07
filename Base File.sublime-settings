@@ -1,0 +1,20 @@
+  {
+
+    "jsdocs_spacer_between_sections": true,
+
+    "jsdocs_notation_map": [
+        {
+            "prefix": "_",
+            "tags": ["@private"]
+        }
+    ],
+
+    "jsdocs_function_description": false,
+
+    "jsdocs_extra_tags":[
+        "@description",
+        "@DateTime {{date}}",
+        "@Author ZHOU",
+    ],
+
+  }

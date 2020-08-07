@@ -1,0 +1,17 @@
+[
+	//{"keys":["="],"command":"run_macro_file","args":{"file":"Packages/User/Macoro/equal.sublime-macro"}},
+	{"keys":[";"],"command":"run_macro_file","args":{"file":"Packages/User/Macoro/semicolon.sublime-macro"}}
+
+	// Case Conversion 快捷键
+	// snake_case:"ctrl+alt+c"，"ctrl+alt+s"" 蛇形
+	// SCREAMING_SNAKE_CASE:"ctrl+alt+c"，"ctrl+alt+shift+s"" 大写蛇形
+	// camelCase:"ctrl+alt+c"，"ctrl+alt+c"" 首字母小写驼峰
+	// PascalCase:"ctrl+alt+c"，"ctrl+alt+p""首字母大写驼峰
+	// dot.case:"ctrl+alt+c"，"ctrl+alt+d"" 用.分割
+	// To dash:"ctrl+alt+c"，"ctrl+alt+h""用-分割
+	// 要分隔单词："ctrl+alt+c"，"ctrl+alt+w""变成单词
+	// 要与正斜杠分隔，请执行以下操作： "ctrl+alt+c"，"ctrl+alt+/"
+	// 要用反斜杠分隔："ctrl+alt+c"，"ctrl+alt+b""
+	// 要在 snake_case，camelCase和PascalCase之间切换，请执行以下操作： ctrl+shift+-""
+
+]
