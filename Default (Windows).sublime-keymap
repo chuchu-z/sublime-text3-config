@@ -1,7 +1,10 @@
 [
 	//{"keys":["="],"command":"run_macro_file","args":{"file":"Packages/User/Macoro/equal.sublime-macro"}},
-	{"keys":[";"],"command":"run_macro_file","args":{"file":"Packages/User/Macoro/semicolon.sublime-macro"}}
-
+	{"keys":[";"],"command":"run_macro_file","args":{"file":"Packages/User/Macoro/semicolon.sublime-macro"}},
+	{ "keys": ["ctrl+shift+c"], "command": "side_bar_copy_path_relative_from_project_encoded" },
+	{ "keys": ["ctrl+shift+n"], "command": "side_bar_new_file" },
+	{ "keys": ["ctrl+shift+l"], "command": "reveal_in_side_bar" },
+	{ "keys": ["ctrl+alt+c"], "command": "copyfilename" }
 	// Case Conversion 快捷键
 	// snake_case:"ctrl+alt+c"，"ctrl+alt+s"" 蛇形
 	// SCREAMING_SNAKE_CASE:"ctrl+alt+c"，"ctrl+alt+shift+s"" 大写蛇形
