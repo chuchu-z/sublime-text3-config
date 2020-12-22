@@ -14,7 +14,7 @@
     "jsdocs_extra_tags":[
         "@description",
         "@DateTime {{date}}",
-        "@Author ZHOU",
+        "@Author chuchu-z",
     ],
 
   }

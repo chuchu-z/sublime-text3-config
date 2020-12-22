@@ -16,7 +16,6 @@
 		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
-		"Boxy Theme",
 		"BracketHighlighter",
 		"Case Conversion",
 		"Color Highlighter",
@@ -33,6 +32,8 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
 		"SublimeREPL",
 		"Transparency",
 		"WakaTime"
