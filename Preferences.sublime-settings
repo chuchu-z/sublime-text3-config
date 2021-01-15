@@ -46,5 +46,7 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": true,
-	"word_wrap": "auto"
+	"word_wrap": "auto",
+	// 哪些文件/文件夹会被显示到边栏上：排除列表
+	"folder_exclude_patterns": ["aex.com", "admin", "page"],
 }
